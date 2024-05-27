@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/second.jpg";
 
-const imageAltText = "Ghulam Hussain Khuhro Data and BI Analyst. This is a backgound image of my about section";
+const imageAltText = "Ghulam Hussain Data and BI Analyst. This is a backgound image of my about section";
 
 /**
  * Sort description that expands on your title on the Home component.
