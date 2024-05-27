@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/third.jpeg";
 
 const imageAltText = "Ghulam Hussain Khuhro Data and BI Analyst. This is a backgound image of my portfolio";
 

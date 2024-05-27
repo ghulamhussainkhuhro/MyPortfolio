@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/second.jpg";
 
 const imageAltText = "Ghulam Hussain Data and BI Analyst. This is a backgound image of my about section";
 
@@ -24,7 +24,7 @@ const imageAltText = "Ghulam Hussain Data and BI Analyst. This is a backgound im
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a BE Software Engineering Student at MUET Jamshoro with a keen interest in Data Science, Artificial Intelligence and Machine Learning..";
+  "I'm a BE Software Engineering Student at MUET Jamshoro with a keen interest in Data Science, Artificial Intelligence and Machine Learning.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I can help you with your data! I can take your disorganized information, clean it up, and make sense of it all. I'm good at finding hidden patterns and trends. Plus, I can automate repetitive tasks to save you time and make sure everything is accurate. To top it off, I can create charts and graphs that make your data easy to understand and look impressive..";
 
 const About = () => {
   return (

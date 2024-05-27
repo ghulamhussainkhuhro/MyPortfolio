@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Ghulam Hussain",
-  title: "Data and Business Intelligence Analyst, \nStudent Ambassador at Microsoft Learn",
+  title: "Data & BI Analyst",
   email: "ghulamhussainkhuhro2.o@gmail.com",
   gitHub: "ghulamhussainkhuhro",
   instagram: "ghulamhussainkhuhro",
