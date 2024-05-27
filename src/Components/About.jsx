@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/first.jpeg";
+import image from "../images/second.jpg";
 
-const imageAltText = "Ghulam Hussain Data and BI Analyst. This is a backgound image of my about section";
+const imageAltText = "Ghulam Hussain Khuhro Data and BI Analyst. This is a backgound image of my about section";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -31,7 +31,7 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Data Analysis ",
+  "Data Analysis",
   "Data Visualization",
   "Data Automation",
   "Data Cleaning & Wrangling",
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I'm a data enthusiast who can transform information into insights. I untangle messy data, unearth hidden trends through analysis, and automate tasks for efficiency. Plus, I can create clear and captivating visualizations that bring data to life, making it a powerful storytelling tool.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
