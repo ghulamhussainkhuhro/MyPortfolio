@@ -121,7 +121,7 @@ const Footer = (props) => {
 };
 
 Footer.defaultProps = {
-  name: "Ghulam Hussain",
+  name: "",
 };
 
 Footer.propTypes = {
